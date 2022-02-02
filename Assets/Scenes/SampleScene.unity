@@ -329,7 +329,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.03
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
       propertyPath: m_LocalPosition.z
@@ -363,14 +363,34 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -1.343
       objectReference: {fileID: 0}
+    - target: {fileID: -5758462628893339406, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
       propertyPath: m_Name
       value: 2016_NISSAN_VERSA__NOTE__SR_(-y_forward_z_up)
       objectReference: {fileID: 0}
-    - target: {fileID: 7478622246113948338, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
+    - target: {fileID: 1567877320140324854, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0005
+      objectReference: {fileID: 0}
+    - target: {fileID: 1567877320140324854, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0009
+      objectReference: {fileID: 0}
+    - target: {fileID: 1567877320140324854, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0232
+      objectReference: {fileID: 0}
+    - target: {fileID: 2770693382619772772, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f25446aa9475a4576a0af677a15124d0, type: 2}
+    - target: {fileID: 7478622246113948338, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d43bc267d27684e1d8abf063fd03a827, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b93cf23dc6bfd4d2fbd95084a1dd4c11, type: 3}
 --- !u!1 &963194225
